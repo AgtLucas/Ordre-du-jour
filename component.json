@@ -2,7 +2,9 @@
   "author": "",
   "name": "",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+  	"jquery": null
+  	},
   "devDependencies": {
   	"jquery": null
   }
